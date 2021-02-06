@@ -11,3 +11,8 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 ```
+
+### PreProcessing
+* Extracted Hour of the day from Arriva Date and Departure Date.
+* Converted Duration from 'Hour+Min' to 'Min'
+
