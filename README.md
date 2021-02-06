@@ -17,3 +17,13 @@ import seaborn as sns
 * Converted Duration from 'Hour+Min' to 'Min'
 * One hot encoding for `Airline`, `Source` and `Destination` variable.
 
+### Feature Selection and Modelling.
+* Random Forest regressor is used to select features based on feature importance.
+* `Grid Search CV` is used for hyperparameter tuing.
+
+### Results
+* `MAE` = `1165.606162629916`
+* `MSE` = `4062650.6911608884`
+* `RMSE` = `2015.6018186042818`
+* `R2 Score` = `0.8117443234361064`
+
