@@ -4,9 +4,10 @@ The following project predicts Flight Fares using Machine Learning. The Flight F
 
 ## Methodology
 ### Libraries Used
-'''python
+```python
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-'''
+
+```
